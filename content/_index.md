@@ -1,5 +1,5 @@
 ---
-title: My Site2
+title: Wiki
 toc: false
 ---
 
